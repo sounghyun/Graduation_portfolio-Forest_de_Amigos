@@ -640,7 +640,7 @@ PlayerSettings:
     Game_Performance: 0
     Hub: 0
     Purchasing: 0
-    UNet: 0
+    UNet: 1
     Unity_Ads: 0
   cloudProjectId: 38a80e57-8f45-481a-bc5f-943ded7026bd
   projectName: adventure
